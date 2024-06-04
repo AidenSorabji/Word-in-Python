@@ -1,7 +1,3 @@
-# WHAT TO ADD NEXT
-#
-# - Intro Screen (New File, Load File, Keep the other buttons) Then turn in to actual editor
-
 # Modules
 import customtkinter
 import os
