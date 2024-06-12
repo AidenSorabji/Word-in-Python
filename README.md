@@ -1,6 +1,7 @@
 # Word-in-Python
 Semi-working program of Word in Python 3.
 
+![alt text](https://github.com/AidenSorabji/Word-in-Python/blob/main/word-in-python-thumbnail.png)
 # Is it Python 2 compatable?
 No. This code is strickly Python 3 compatable, and only Python 3 compatable.
 
